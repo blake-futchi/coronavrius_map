@@ -2,9 +2,8 @@
 
 Jumpstart your next Gatsby mapping project with Leaflet!
 
-## ⚡ Deploy on Netlify
-
-
+## ⚡ Deployed on Netlify
+* https://blake-coronavirus-map.netlify.app/
 
 ## 🧰 What This Includes
 * [Yarn](https://yarnpkg.com/en/)
