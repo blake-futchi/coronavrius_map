@@ -8,11 +8,11 @@ const SecondPage = () => {
   return (
     <Layout pageName="two">
       <Helmet>
-        <title>Page Two</title>
+        <title>About</title>
       </Helmet>
       <Container type="content" className="text-center">
-        <h1>Page Two</h1>
-        <p>Welcome to page 2</p>
+        <h1>About</h1>
+        <p>A simple project practicing axios requests on API endpoints and locationally mapping the data.</p>
       </Container>
     </Layout>
   );
