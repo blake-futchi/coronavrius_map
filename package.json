@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-leaflet",
-  "description": "A Gatsby starter with Leafet!",
+  "name": "gatsby-corona-map",
+  "description": "A Gatsby corona map app!",
   "version": "0.2.4",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Blake Erickson <blake@futchi.com>",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-plugin-react-helmet": "^3.2.1",
@@ -64,12 +64,5 @@
       "yarn format",
       "yarn lint"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet"
-  },
-  "bugs": {
-    "url": "https://github.com/colbyfayock/gatsby-starter-leaflet/issues"
   }
 }
